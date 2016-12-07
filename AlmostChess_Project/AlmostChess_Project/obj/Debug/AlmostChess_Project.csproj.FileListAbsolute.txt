@@ -1,0 +1,18 @@
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\AlmostChess_Project\AlmostChess_Project\bin\Debug\AlmostChess_Project.exe.config
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\AlmostChess_Project\AlmostChess_Project\obj\Debug\AlmostChess_Project.csprojResolveAssemblyReference.cache
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\AlmostChess_Project\AlmostChess_Project\bin\Debug\AlmostChess_Project.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\AlmostChess_Project\AlmostChess_Project\bin\Debug\AlmostChess_Project.pdb
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\AlmostChess_Project\AlmostChess_Project\obj\Debug\AlmostChess_Project.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\AlmostChess_Project\AlmostChess_Project\obj\Debug\AlmostChess_Project.pdb
+C:\Users\PAlmasi\Desktop\AlmostChess_Project\AlmostChess_Project\bin\Debug\AlmostChess_Project.exe.config
+C:\Users\PAlmasi\Desktop\AlmostChess_Project\AlmostChess_Project\obj\Debug\AlmostChess_Project.exe
+C:\Users\PAlmasi\Desktop\AlmostChess_Project\AlmostChess_Project\obj\Debug\AlmostChess_Project.pdb
+C:\Users\PAlmasi\Desktop\AlmostChess_Project\AlmostChess_Project\bin\Debug\AlmostChess_Project.exe
+C:\Users\PAlmasi\Desktop\AlmostChess_Project\AlmostChess_Project\bin\Debug\AlmostChess_Project.pdb
+C:\Users\PAlmasi\Desktop\AlmostChess_Project\AlmostChess_Project\obj\Debug\AlmostChess_Project.csprojResolveAssemblyReference.cache
+C:\Users\AliAlrahem\Downloads\AlmostChess_Project\AlmostChess_Project\bin\Debug\AlmostChess_Project.exe.config
+C:\Users\AliAlrahem\Downloads\AlmostChess_Project\AlmostChess_Project\obj\Debug\AlmostChess_Project.exe
+C:\Users\AliAlrahem\Downloads\AlmostChess_Project\AlmostChess_Project\obj\Debug\AlmostChess_Project.pdb
+C:\Users\AliAlrahem\Downloads\AlmostChess_Project\AlmostChess_Project\bin\Debug\AlmostChess_Project.exe
+C:\Users\AliAlrahem\Downloads\AlmostChess_Project\AlmostChess_Project\bin\Debug\AlmostChess_Project.pdb
+C:\Users\AliAlrahem\Downloads\AlmostChess_Project\AlmostChess_Project\obj\Debug\AlmostChess_Project.csprojResolveAssemblyReference.cache
